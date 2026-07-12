@@ -42,7 +42,7 @@ function Hero(){
         font-bold
         text-lg
         ">
-          Bonjour, ici
+          Bonjour, je suis
         </p>
 
 
@@ -96,38 +96,7 @@ function Hero(){
         ">
 
 
-          <button 
-          className="
-          bg-orange-500
-          text-white
-          px-6
-          py-3
-          rounded-lg
-          hover:bg-orange-600
-          "
-          >
-
-            Voir mes projets
-
-          </button>
-
-
-
-          <button 
-          className="
-          border
-          border-orange-500
-          text-orange-500
-          px-6
-          py-3
-          rounded-lg
-          "
-          >
-
-            Télécharger CV
-
-          </button>
-
+          
 
 
         </div>
@@ -140,7 +109,7 @@ mt-6
 
 
 <a 
-href="https://linkedin.com/in/ton-profil"
+href="https://www.linkedin.com/in/thierno-mamadou-diallo-8b68b41b2"
 target="_blank"
 className="
 text-blue-600
@@ -151,23 +120,6 @@ font-bold
 LinkedIn
 
 </a>
-
-
-
-<a 
-href="https://facebook.com/ton-profil"
-target="_blank"
-className="
-text-blue-700
-font-bold
-"
->
-
-Facebook
-
-</a>
-
-
 
 <a 
 href="https://github.com/ton-profil"
@@ -181,6 +133,24 @@ font-bold
 GitHub
 
 </a>
+
+
+
+<a 
+href="https://www.facebook.com/diallotm733"
+target="_blank"
+className="
+text-blue-700
+font-bold
+"
+>
+
+Facebook
+
+</a>
+
+
+
 
 
 </div>

@@ -36,13 +36,13 @@ text-lg
 leading-relaxed
 ">
 
-Je m'appelle <strong>Thierno Mamadou Diallo.</strong>  Je suis diplômé d'une Licence en Génie Informatique de l'Université Barack Obama de Conakry.
+Je m'appelle <strong>Thierno Mamadou Diallo.</strong>  Je suis diplômé d'une Licence en <strong>Génie Informatique</strong> de l'Université Barack Obama de Conakry.
 
-Au cours de mon parcours, j'ai renforcé mes compétences à travers plusieurs formations  notamment certaines avec Orange Digital Center. Mais aussi Coursera, Udemy et autres.
+Au cours de mon parcours, j'ai renforcé mes compétences à travers plusieurs formations  notamment certaines avec <strong> Orange Digital Center.</strong>  Mais aussi Coursera, Udemy et autres.
 
-J'ai également travaillé comme apporteur d'affaires, une expérience qui m'a permis de développer mon sens de la communication, de la relation client et du travail en équipe.
+J'ai également travaillé comme <strong>apporteur d'affaires</strong>, une expérience qui m'a permis de développer mon sens de la communication, de la relation client et du travail en équipe.
 
-Aujourd'hui, je souhaite intégrer Orange Guinée en tant que stagiaire afin de mettre en pratique les connaissances que j'ai acquises, d'apprendre auprès de professionnels expérimentés et de contribuer aux projets de l'entreprise.
+Aujourd'hui, je souhaite intégrer <strong>Orange Guinée</strong>  en tant que stagiaire afin de mettre en pratique les connaissances que j'ai acquises, d'apprendre auprès de professionnels expérimentés et de contribuer aux projets de l'entreprise.
 
 Je suis une personne motivée, curieuse, capable de s'adapter et toujours prête à apprendre. Je considère ce stage comme une excellente opportunité pour travailler dans un environnement exigeant et formateur.
 

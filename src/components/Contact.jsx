@@ -38,7 +38,7 @@ function Contact() {
           mb-4
         ">
 
-          Je suis disponiple aux :
+          Je suis disponiple aux addresses suivantes :
 
         </p>
 
