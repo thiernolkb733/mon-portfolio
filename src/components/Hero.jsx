@@ -1,5 +1,5 @@
 // Importation de la photo
-import profile from "../assets/profile.jpg.jpeg";
+import profile from "../assets/profile.jpg";
 
 // Composant Hero : la première section visible du portfolio
 function Hero(){
@@ -170,7 +170,7 @@ Facebook
 
 
 <a 
-href="https://github.com/thiernolkb733/Project-test"
+href="https://github.com/ton-profil"
 target="_blank"
 className="
 text-gray-800
