@@ -42,7 +42,7 @@ function Hero(){
         font-bold
         text-lg
         ">
-          Bonjour, je suis
+          Bonjour, ici
         </p>
 
 
