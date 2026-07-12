@@ -1,0 +1,11 @@
+/* 
+Cette ligne charge Tailwind CSS
+Elle donne accès à toutes les classes :
+bg-blue-500
+text-white
+flex
+grid
+etc...
+*/
+
+@import "tailwindcss";
