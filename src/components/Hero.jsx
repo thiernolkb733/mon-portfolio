@@ -122,7 +122,7 @@ LinkedIn
 </a>
 
 <a 
-href="https://github.com/ton-profil"
+href="https://github.com/thiernolkb733"
 target="_blank"
 className="
 text-gray-800
